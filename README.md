@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Testimonials grid section
 
 ## Table of contents
 
@@ -15,12 +15,12 @@
 
 ## Overview
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub).
+This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub).
 
 
 ### Screenshot
 
-![](images/DesktopExample.jpg)
+![](images/DesktopExample.png)
 ![](images/MobileExample00.jpg)
 ![](images/MobileExample01.jpg)
 
@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Grid
 
 
 ### Continued development
