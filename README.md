@@ -15,21 +15,20 @@
 
 ## Overview
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub).
 
 
 ### Screenshot
 
-![](./images/DesktopExample.jpg)
-![](./images/DesktopExample2.jpg)
-![](./images/MobileExample.jpg)
-![](./images/MobileExample2.jpg)
+![](images/DesktopExample.jpg)
+![](images/MobileExample00.jpg)
+![](images/MobileExample01.jpg)
 
 
 ### Links
 
-- Solution URL: [Solution Repository](https://github.com/IlledNacu/Challenge-2-FrontendMentor)
-- Live Site: [Live Site](https://illednacu.github.io/Challenge-2-FrontendMentor/)
+- Solution URL: [Solution Repository](https://github.com/IlledNacu/Challenge-3-FrontendMentor)
+- Live Site: [Live Site]()
 
 
 ### Built with
